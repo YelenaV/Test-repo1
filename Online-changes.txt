@@ -1,4 +1,0 @@
-# Test-repo1
-Just checking how to work with repos on/offline
-
-change #1. Starting up
