@@ -1,0 +1,6 @@
+Change #2. "git pull origin master" apparently worked well after creating a
+directory for test-repo1, initializing it as a git project and setting 
+"git remote add origin https://github.com/YelenaV/Test-repo1.git"
+
+Now let's see if this still works pushing this change back onto that online
+repo.
